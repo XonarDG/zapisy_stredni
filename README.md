@@ -1,2 +1,2 @@
 # zapisy_stredni
-Zápisy z hodin odborných předmětů.
+Zápisy z hodin ~~odborných~~ předmětů.

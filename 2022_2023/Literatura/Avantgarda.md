@@ -1,5 +1,14 @@
 # Avantgarda
 Zápis podle zadaní na [Google učebně](https://classroom.google.com/c/NTQ0MTMyNzk2MDU0/a/NTU3NTE3ODg0MzM3/details) 24.10.2022
+- [Avantgarda](#avantgarda)
+  - [Popis avantgardy](#popis-avantgardy)
+  - [Směry Avantgardy](#směry-avantgardy)
+    - [Kubismus](#kubismus)
+    - [Futurismus](#futurismus)
+    - [Surrealismus](#surrealismus)
+  - [Guillaume Apollinair _(1880-1918)_](#guillaume-apollinair-1880-1918)
+
+---
 
 ## Popis avantgardy
 
@@ -7,6 +16,7 @@ Zápis podle zadaní na [Google učebně](https://classroom.google.com/c/NTQ0MTM
 - bourání zvyků vnímání reality -> hledání nových expresivnějších způsobů
 - následkem experimentace se vnímaná realita deformuje
 - většina literatury z období je poezie, jediná dost flexibilní pro takové pokusy
+- 
 
 ## Směry Avantgardy
   
@@ -34,6 +44,8 @@ Zápis podle zadaní na [Google učebně](https://classroom.google.com/c/NTQ0MTM
 - deklarace surrealismu, **Manifest surrealismu** od **André Bretona** roku **1924**
 - surrealismus byl ovlivněn rakouským lékařem **Sigmundem Freudem**, který odhalil význam **nevědomým duševním procesům**, na kterých surrealismus stavěl.
 
+---
+
 ## Guillaume Apollinair _(1880-1918)_
 
 - ve válce zasažen do hlavy šrapnelem
@@ -46,10 +58,10 @@ Zápis podle zadaní na [Google učebně](https://classroom.google.com/c/NTQ0MTM
 - používá asociace, upouští uzdu fantasii
 - rád používal kombinaci kubismu a futurismu _(kubofuturismus)_
 
-### Díla:
+- Díla:
 
-- Dramata
-  - Prsy Tiresiovy
-- Poezie
-  - Alkoholy - daly vzniku takzvaným **Apollinairovským pásům**. tj. volný proud myšlenek vyjadřující zázračnost života
-  - _Kaligramy_ - kombinují poezii a tvary dohromany. Jde především o básně zapsané do obrázků. _(třeba báseň o Paříži zapsaná ve tvaru Eiffelovky)_
+  - Dramata
+    - Prsy Tiresiovy
+  - Poezie
+    - Alkoholy - daly vzniku takzvaným **Apollinairovským pásům**. tj. volný proud myšlenek vyjadřující zázračnost života
+    - _Kaligramy_ - kombinují poezii a tvary dohromany. Jde především o básně zapsané do obrázků. _(třeba báseň o Paříži zapsaná ve tvaru Eiffelovky)_
