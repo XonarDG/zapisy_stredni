@@ -6,6 +6,10 @@ Zápis podle zadaní na [Google učebně](https://classroom.google.com/c/NTQ0MTM
     - [Kubismus](#kubismus)
     - [Futurismus](#futurismus)
     - [Surrealismus](#surrealismus)
+  - [Dadaismus](#dadaismus)
+  - [Poetismus](#poetismus)
+  - [Expresionismus](#expresionismus)
+  - [Impresionismus](#impresionismus)
   - [Guillaume Apollinair _(1880-1918)_](#guillaume-apollinair-1880-1918)
 
 ---
@@ -43,6 +47,24 @@ Zápis podle zadaní na [Google učebně](https://classroom.google.com/c/NTQ0MTM
 - za první dílo považována **Magnetická pole** od autorů **Soupaulta** a **Bretona**
 - deklarace surrealismu, **Manifest surrealismu** od **André Bretona** roku **1924**
 - surrealismus byl ovlivněn rakouským lékařem **Sigmundem Freudem**, který odhalil význam **nevědomým duševním procesům**, na kterých surrealismus stavěl.
+
+## Dadaismus
+
+- Chaotická literatura
+
+
+## Poetismus
+
+- 
+
+
+## Expresionismus
+
+-  
+
+## Impresionismus
+
+-  
 
 ---
 
