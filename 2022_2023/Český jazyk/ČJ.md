@@ -36,7 +36,7 @@ Funkční styly
 
 Slohové postupy
 - Vypravěcí
-- Popisn
+- Popisný
 - Informační
 - Výkladový
 - Úvahový
